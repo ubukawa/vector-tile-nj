@@ -183,7 +183,6 @@
   ],
   "tiles": [
     "https://ubukawa.github.io/vector-tile-nj/zxy/{z}/{x}/{y}.pbf",
-    "https://ubukawa.github.io/vector-tile-ny/zxy/{z}/{x}/{y}.pbf",
     "https://ubukawa.github.io/vector-tile-ny/zxy/{z}/{x}/{y}.pbf"
   ]
 }
